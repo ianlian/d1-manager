@@ -71,3 +71,4 @@ Cloudflare AI Worker:
 > Semantic Query uses OpenAI GPT-3.5 Turbo to translate natural language queries into SQL.
 
 1111111
+2222
