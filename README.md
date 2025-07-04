@@ -72,3 +72,4 @@ Cloudflare AI Worker:
 
 1111111
 2222
+gallery-v2
